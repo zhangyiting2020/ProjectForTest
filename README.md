@@ -6,3 +6,6 @@
  git commit -m 'msg'
 ```
 ## 添加一个HTML文件
+
+- git status
+- git reset
